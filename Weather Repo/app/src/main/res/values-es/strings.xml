@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Clima</string>
+
+    <string name="monday">Lunes</string>
+    <string name="tuesday">Martes</string>
+    <string name="wednesday">Miércoles</string>
+    <string name="thursday">Jueves</string>
+    <string name="friday">Viernes</string>
+    <string name="saturday">Sábado</string>
+    <string name="sunday">Domingo</string>
+
+    <string name="sunny">Soleado</string>
+    <string name="sunny_cloudy">Parcialmente nublado</string>
+    <string name="night">Noche</string>
+    <string name="night_cloudy">Noche mayormente nublada</string>
+    <string name="rain">Lluvia</string>
+    <string name="thunderstorm">Tormenta</string>
+    <string name="thunderstorm_no_rain">Tormenta (sin lluvia)</string>
+    <string name="cloudy">Nublado</string>
+    <string name="windy_cloudy">Ventoso y nublado</string>
+    <string name="windy">Ventoso</string>
+    <string name="snowy">De mucha nieve</string>
+
+    <string name="feels_like">Se siente</string>
+    <string name="forecast_for_the_week">Pronóstico para la semana.</string>
+    <string name="try_again">Intentar otra vez</string>
+
+    <string name="please_wait_getting_weather">Por favor espera, obteniendo el clima.</string>
+    <string name="sorry_but_we_cant_load_the_weather">Lo sentimos, pero no podemos cargar el clima.</string>
+
+    <string name="no_internet_connection">No hay conexión a Internet</string>
+    <string name="sorry_we_cant_help_you">Lo sentimos pero sin permiso de geolocalización no podemos mostrar el tiempo.</string>
+    <string name="we_need_this_permission">Necesitamos este permiso para mostrar el clima donde estás</string>
+</resources>

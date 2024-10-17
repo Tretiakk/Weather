@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Météo</string>
+
+    <string name="monday">Lundi</string>
+    <string name="tuesday">Mardi</string>
+    <string name="wednesday">Mercredi</string>
+    <string name="thursday">Jeudi</string>
+    <string name="friday">Vendredi</string>
+    <string name="saturday">Samedi</string>
+    <string name="sunday">Dimanche</string>
+
+    <string name="sunny">Ensoleillé</string>
+    <string name="sunny_cloudy">Partiellement nuageux</string>
+    <string name="night">Nuit</string>
+    <string name="night_cloudy">Nuit principalement nuageuse</string>
+    <string name="rain">Pluie</string>
+    <string name="thunderstorm">Orage</string>
+    <string name="thunderstorm_no_rain">Orage (sans pluie)</string>
+    <string name="cloudy">Nuageux</string>
+    <string name="windy_cloudy">Venté et nuageux</string>
+    <string name="windy">Venté</string>
+    <string name="snowy">Neigeux</string>
+
+    <string name="feels_like">Ressenti</string>
+    <string name="forecast_for_the_week">Prévisions pour la semaine</string>
+    <string name="try_again">Réessayez</string>
+
+    <string name="please_wait_getting_weather">Veuillez patienter, récupération de la météo</string>
+    <string name="sorry_but_we_cant_load_the_weather">Désolé, mais nous ne pouvons pas charger la météo</string>
+
+    <string name="no_internet_connection">Il n\'y a pas de connexion Internet</string>
+    <string name="sorry_we_cant_help_you">Désolé, mais sans autorisation pour la géolocalisation, nous ne pouvons pas afficher la météo.</string>
+    <string name="we_need_this_permission">Nous avons besoin de cette autorisation pour afficher la météo où vous êtes</string>
+</resources>

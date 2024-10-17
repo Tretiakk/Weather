@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Wetter</string>
+
+    <string name="monday">Montag</string>
+    <string name="tuesday">Dienstag</string>
+    <string name="wednesday">Mittwoch</string>
+    <string name="thursday">Donnerstag</string>
+    <string name="friday">Freitag</string>
+    <string name="saturday">Samstag</string>
+    <string name="sunday">Sonntag</string>
+
+    <string name="sunny">Sonnig</string>
+    <string name="sunny_cloudy">Teilweise bewölkt</string>
+    <string name="night">Nacht</string>
+    <string name="night_cloudy">Überwiegend bewölkte Nacht</string>
+    <string name="rain">Regen</string>
+    <string name="thunderstorm">Gewitter</string>
+    <string name="thunderstorm_no_rain">Gewitter (ohne Regen)</string>
+    <string name="cloudy">Bewölkt</string>
+    <string name="windy_cloudy">Windig und bewölkt</string>
+    <string name="windy">Windig</string>
+    <string name="snowy">Schneefall</string>
+
+    <string name="feels_like">Gefühlt</string>
+    <string name="forecast_for_the_week">Vorhersage für die Woche</string>
+    <string name="try_again">Erneut versuchen</string>
+
+    <string name="please_wait_getting_weather">Bitte warten, Wetter wird abgerufen</string>
+    <string name="sorry_but_we_cant_load_the_weather">Entschuldigung, aber wir können das Wetter nicht laden</string>
+
+    <string name="no_internet_connection">Keine Internetverbindung</string>
+    <string name="sorry_we_cant_help_you">Entschuldigung, aber ohne Standortfreigabe können wir das Wetter nicht anzeigen.</string>
+    <string name="we_need_this_permission">Wir benötigen diese Berechtigung, um das Wetter an Ihrem Standort anzuzeigen</string>
+</resources>
