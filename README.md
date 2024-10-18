@@ -13,6 +13,8 @@ _________________________________________________
 
 Contains AnimatedVectorDrawable (AVD) animations.
 
+# [Download app (only for android)](https://drive.google.com/file/d/1bGBEXrmPmYopImMLUdmDj8Zcbm9QSryL/view?usp=drive_link)
+
 ### Main menu
 ![](https://github.com/Tretiakk/Weather/blob/main/Main.png)
 
